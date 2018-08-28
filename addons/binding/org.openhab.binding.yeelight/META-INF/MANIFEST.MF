@@ -4,7 +4,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Yeelight Binding
 Bundle-SymbolicName: org.openhab.binding.yeelight;singleton:=true
 Bundle-Vendor: openHAB
-Bundle-Version: 2.4.0.qualifier
+Bundle-Version: 2.4.0.M2
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
  lib/yeelight.jar
