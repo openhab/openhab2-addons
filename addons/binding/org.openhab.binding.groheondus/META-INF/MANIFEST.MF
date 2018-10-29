@@ -6,7 +6,7 @@ Bundle-Name: GROHE ONDUS Binding
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-SymbolicName: org.openhab.binding.groheondus;singleton:=true
 Bundle-Vendor: openHAB
-Bundle-Version: 2.4.0.qualifier
+Bundle-Version: 2.4.0.M5
 Import-Package: 
  javax.measure,
  org.eclipse.jdt.annotation;resolution:=optional,
